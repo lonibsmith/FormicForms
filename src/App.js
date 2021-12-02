@@ -1,5 +1,5 @@
 import React from "react";
-import "./index.css";
+import "./index.html";
 import {useFormik} from "formik";
 
 function App() {
